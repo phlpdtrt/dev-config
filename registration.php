@@ -13,7 +13,7 @@
  * @package    DevConfig
  * @author     Philipp Dittert <philipp.dittert@gmail.com>
  * @copyright  Copyright (c) 2017 Philipp Dittert <philipp.dittert@gmail.com>
- * @link       https://github.com/PhlpDtrt/DevConfig
+ * @link       https://github.com/phlpdtrt/dev-config
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,

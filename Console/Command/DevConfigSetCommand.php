@@ -24,7 +24,7 @@ use Magento\Framework\App\Config\ConfigResource\ConfigInterface;
  * @subpackage Console
  * @author     Philipp Dittert <philipp.dittert@gmail.com>
  * @copyright  Copyright (c) 2017 Philipp Dittert <philipp.dittert@gmail.com>
- * @link       https://github.com/PhlpDtrt/DevConfig
+ * @link       https://github.com/phlpdtrt/dev-config
  */
 
 class DevConfigSetCommand extends Command
@@ -46,6 +46,7 @@ class DevConfigSetCommand extends Command
 
     /**
      * DevConfigSetCommand constructor.
+     *
      * @param AppState $appState
      * @param ConfigInterface $configInterface
      */

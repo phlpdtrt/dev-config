@@ -13,7 +13,7 @@
  * @subpackage etc
  * @author     Philipp Dittert <philipp.dittert@gmail.com>
  * @copyright  Copyright (c) 2017 Philipp Dittert <philipp.dittert@gmail.com>
- * @link       https://github.com/PhlpDtrt/DevConfig
+ * @link       https://github.com/phlpdtrt/dev-config
  */
  -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
