@@ -99,6 +99,10 @@ class DevConfigSetCommand extends Command
                 ScopeConfigInterface::SCOPE_TYPE_DEFAULT,
                 0
             );
+
+            $output->write("\n");
+            $output->writeln("<info>config '{$key}' successfully set to '{$value}'</info>");
+
         } catch (\Exception $e) {
             $output->write("<error>{$e->getMessage()}</error>");
             $output->writeln("");
